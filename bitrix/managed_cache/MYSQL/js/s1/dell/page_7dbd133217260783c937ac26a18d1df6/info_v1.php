@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/local/templates/dell/components/bitrix/main.profile/personal/script.js" => "1680175505634",]; ?>

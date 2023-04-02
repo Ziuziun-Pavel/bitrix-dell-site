@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/bitrix/components/altasib/feedback.form/templates/.default/form_style.css" => "167994369446740","/bitrix/components/altasib/feedback.form/templates/.default/themes/theme_0c4ae61f3ed347f668dbfebc1298c66c.css" => "16799927063124",]; ?>

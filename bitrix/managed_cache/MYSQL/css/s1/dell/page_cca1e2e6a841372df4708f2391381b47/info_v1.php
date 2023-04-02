@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/local/templates/.default/components/bitrix/main.feedback/feedback_form/style.css" => "1679990687251",]; ?>

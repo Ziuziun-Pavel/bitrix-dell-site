@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/bitrix/components/altasib/feedback.form/templates/.default/form_script.js" => "167999466011184",]; ?>

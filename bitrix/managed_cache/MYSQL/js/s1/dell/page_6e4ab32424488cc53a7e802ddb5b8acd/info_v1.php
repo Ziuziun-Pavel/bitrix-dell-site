@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/bitrix/components/bitrix/sale.basket.basket/templates/.default/js/action-pool.js" => "16797730114358","/bitrix/components/bitrix/sale.basket.basket/templates/.default/js/filter.js" => "167977301110511","/bitrix/components/bitrix/sale.basket.basket/templates/.default/js/component.js" => "167977301137537",]; ?>

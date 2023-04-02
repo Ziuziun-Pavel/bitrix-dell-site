@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/bitrix/components/developx/backform/templates/.default/style.css" => "167999442610680",]; ?>

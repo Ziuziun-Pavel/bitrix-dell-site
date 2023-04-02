@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/bitrix/components/developx/backform/templates/.default/script.js" => "16799944262655",]; ?>

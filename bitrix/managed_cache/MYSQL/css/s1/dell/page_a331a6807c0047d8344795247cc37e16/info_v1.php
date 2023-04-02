@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/bitrix/components/interlabs/feedbackform/templates/.default/style.css" => "167999454113223",]; ?>

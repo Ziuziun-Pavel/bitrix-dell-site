@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/bitrix/components/zam-it/zamit.callback/templates/.default/style.css" => "1679995236427",]; ?>

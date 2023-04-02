@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/bitrix/components/bitrix/system.pagenavigation/templates/round/style.css" => "16797722852530","/bitrix/components/bitrix/search.page/templates/.default/style.css" => "1679773070163","/bitrix/components/bitrix/search.suggest.input/templates/.default/style.css" => "1679773072501",]; ?>

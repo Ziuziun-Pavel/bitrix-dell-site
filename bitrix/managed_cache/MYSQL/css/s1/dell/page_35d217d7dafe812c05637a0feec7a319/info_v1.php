@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/bitrix/components/bitrix/sender.subscribe/templates/.default/style.css" => "16797731044395",]; ?>
